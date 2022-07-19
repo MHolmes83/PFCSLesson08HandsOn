@@ -1,0 +1,15 @@
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Users\morga\OneDrive\Desktop\Programming\CSharp\ProgrammingFoundations\PFCSLesson08HandsOn\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
